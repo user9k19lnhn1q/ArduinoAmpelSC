@@ -1,2 +1,2 @@
 # ArduinoAmpelSC
-Ampelsteuerunf für Arduino Uno
+Ampelsteuerung für Arduino Uno
